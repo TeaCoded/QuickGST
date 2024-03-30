@@ -6,6 +6,11 @@ QuickGST is a straightforward GST calculator application designed with a sleek d
 
 - Dark and light mode themes for comfortable usage.
 
+## Screenshots:
+<img src="assets/images/image1.jpeg" width="50%" height="60%" /><img src="assets/images/image2.jpeg" width="50%" height="60%" />
+<img src="assets/images/image3.jpeg" width="50%" height="60%" /><img src="assets/images/image4.jpeg" width="50%" height="60%" />
+
+
 
 ### Installation
 
